@@ -20,6 +20,7 @@ Vulnerability #1: ____SQL Injection (SQLi)
 <img src="SQLIBLUE.gif">
 
 Vulnerability #2: ____Session Hijacking/Fixation
+<img src="SHFBLUE.gif">
 
 
 ## Green
