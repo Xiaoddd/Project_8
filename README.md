@@ -34,7 +34,8 @@ Vulnerability #2: ____Cross-Site Scripting (XSS)
 
 ## Red
 
-Vulnerability #1: ____
+Vulnerability #1: ____Cross-Site Request Forgery (CSRF)
+<img src="CSRFRED.gif">
 
 Vulnerability #2: ____Insecure Direct Object Reference (IDOR)
 <img src="IDORRED.gif">
